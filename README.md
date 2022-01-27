@@ -8,8 +8,8 @@
 -Una vez clonado el proyecto comprobara las ramas del proyecto con el siguiente comando 
 git branch 
 deberá haber la siguientes ramas:
-  -ramaCristian
-  -ramaDuverney
-  -ramaSantiago
+    -ramaCristian
+    -ramaDuverney
+    -ramaSantiago
 
 
