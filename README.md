@@ -23,9 +23,9 @@
 
  - Cuando halla agregado o modificado archivos del proyecto y desea subirlos al git se usará el siguiente comando
  
-	 git add .
-	 git commit –m “comentario”
-	 git push origin nombre-rama
+	 - git add .
+	 - git commit –m “comentario”
+	 - git push origin nombre-rama
  - Si han pasado algunas horas y desea seguir trabajando. Deberá actualizar las modificaciones de las otras ramas, deberá usar el comando
  git pull
 ### mas informacion
