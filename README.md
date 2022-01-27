@@ -17,7 +17,7 @@
 	en caso de no haber ramas se deberán de crear, con el comando
 	git branch nombre-nueva-rama, las ramas deben tener el mismo nombre como se mostró anteriormente
  - Luego deberá pasarse a su rama correspondiente con el comando
- git checkout nombre-rama
+	 - git checkout nombre-rama
 
 ## consejos para el uso correcto de git y evitar problemas
 
